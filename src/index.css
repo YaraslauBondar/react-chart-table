@@ -31,10 +31,6 @@ td.label {
     text-align: start;
 }
 
-/*.table-row:nth-child(even) {
-    background: #f5f5f5;
-}*/
-
 .table-row:hover {
     background: #d3d3d3;
     cursor: pointer;
